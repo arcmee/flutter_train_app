@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  SizedBox seatSelectButton() {
+  Widget seatSelectButton() {
     return SizedBox(
       width: double.infinity,
       child: TextButton(

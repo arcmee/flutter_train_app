@@ -68,7 +68,7 @@ class _SeatPageState extends State<SeatPage> {
                   SizedBox(width: 20),
                   seatSquare(24, false),
                   SizedBox(width: 4),
-                  Text('선택됨')
+                  Text('선택 안됨')
               ],),
               SizedBox(height: 20),
               Row(
